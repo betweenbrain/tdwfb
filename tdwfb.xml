@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system" method="upgrade">
+	<name>System - The Day We Fight Back Banner</name>
+	<version>1.1</version>
+	<creationDate>February 10, 2014</creationDate>
+	<author>Matt Thomas</author>
+	<authorEmail>matt@betweenbrain.com</authorEmail>
+	<authorUrl>http://betweenbrain.com</authorUrl>
+	<copyright>Copyright (C) 2014 Matt Thomas. All rights reserved.</copyright>
+	<license>GNU GPL version 2 or later</license>
+	<description>Joomla 2.5+ plugin implementation of The Day We Fight Back banner - https://thedaywefightback.org/</description>
+	<files>
+		<filename plugin="tdwfb">tdwfb.php</filename>
+	</files>
+</extension>
